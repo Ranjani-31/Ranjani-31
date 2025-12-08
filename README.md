@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Sivaranjani!
 
 - 👀 I’m passionate about **Web Development**
-- 🌱 Currently learning the **MERN Stack (MongoDB, Express.js, React, Node.js)**
+- 🌱 **MERN Developer (MongoDB, Express.js, React, Node.js)**
 - 💬 Always open to learning and growing with new technologies
 - 🤝 Looking to collaborate on **open-source projects** and **creative web apps**
 - 📫 Reach me via email: siva165837@gmail.com
