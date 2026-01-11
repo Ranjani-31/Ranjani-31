@@ -11,4 +11,9 @@
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+>
+> ## 👩‍💻 leetcode Profile
+
+- 🧠 LeetCode: https://leetcode.com/Ranjani-31/
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/Ranjani-31?theme=dark&font=Karma)
 
