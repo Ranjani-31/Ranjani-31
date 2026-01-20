@@ -6,12 +6,9 @@
 - 🤝 Looking to collaborate on **open-source projects** and **creative web apps**
 - 📫 Reach me via email: sivaranjani312004@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving problems and turning ideas into working code!
+- I love solving problems and turning ideas into working code!
 
----
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
->
 > ## 👩‍💻 leetcode Profile
 
 - 🧠 LeetCode: https://leetcode.com/Ranjani-31/
