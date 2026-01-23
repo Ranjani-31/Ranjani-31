@@ -8,9 +8,8 @@
 - 😄 Pronouns: She/Her
 - I love solving problems and turning ideas into working code!
 
-
 > ## 👩‍💻 leetcode Profile
-
-- 🧠 LeetCode: https://leetcode.com/Ranjani-31/
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Ranjani-31?theme=dark&font=Karma)
+ **LeetCode: https://leetcode.com/Ranjani-31/**
+ 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ranjani-31?theme=dark&font=Karma)
 
